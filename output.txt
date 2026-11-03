@@ -1,0 +1,16 @@
+==================================================
+	ADVANCED LIBRARY SYSTEM	
+==================================================
+
+--- Testing EBook ---
+Title: Mobile Dev Guide | Author: Warren A. | Price: ₱350.00
+Category: Digital E-Book (15.5MB)
+[LOG]: System recorded action -> Downloaded EBook
+
+--- Testing PrintedBook ---
+Title: Python Programming 2 | Author: Paulo P. | Price: ₱500.00
+Category: Physical Hardcover (320 pages)
+[LOG]: System recorded action -> Checked out PrintedBook
+
+==================================================
+Program executed successfully.
